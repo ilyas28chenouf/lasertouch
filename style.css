@@ -11327,7 +11327,7 @@ input[type=checkbox]:not(:checked) + label.error { display: block !important; }
 	display: block;
 	background: transparent;
 	padding: 0 0 10px;
-	border-bottom: 2px solid #1ABC9C;
+	border-bottom: 2px solid #6b9bce;
 }
 
 
